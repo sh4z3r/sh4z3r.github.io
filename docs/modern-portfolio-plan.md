@@ -30,7 +30,7 @@ Create a dark, technical but professional portfolio with a restrained cybersecur
 
 ### Navigation
 
-- ShazerTech/Jorge Mayorga branding
+- Shazer/Jorge Mayorga branding
 - About, Expertise, Certifications, and Writing links
 - Prominent `Let's talk` button
 
@@ -73,14 +73,6 @@ Highlight GitBook articles, TryHackMe and Hack The Box profiles, GitHub projects
 Add a clear invitation for consulting, architecture reviews, AppSec programs, or speaking. Include a direct email or contact link instead of making visitors search through social icons.
 
 ## Content Improvements
-
-Replace:
-
-> Cybersecurity Consultant | Web Security | Engineering & Management
-
-With:
-
-> Cybersecurity consultant focused on AppSec, DevSecOps, cloud security, and secure delivery.
 
 Replace:
 
