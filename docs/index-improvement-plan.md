@@ -37,7 +37,7 @@ No redesign, no new sections, no experience timeline.
 ## Validation
 
 - [x] HTML validates (no errors on validator.w3.org) — 0 messages; CSS passes csstree-validator (W3C CSS service was down)
-- [ ] Test at 425 / 768 / 1024 / 1440px widths
+- [x] Test at 425 / 768 / 1024 / 1440px widths (headless Chromium screenshots, all clean)
 - [x] Every metric, certification name, date and external link verified against the resume
   - Metrics/claims: all match resume (15+ years, AWS Community Builder, bilingual, AppSec/cloud wording)
   - Links: 10/11 return 200; tryhackme.com returns 429 (bot rate-limit from this network, not a dead link)
