@@ -21,9 +21,9 @@ No redesign, no new sections, no experience timeline.
 
 ## Phase 3 — Metadata & accessibility
 
-- [ ] Add meta description, favicon, Open Graph and Twitter tags
-- [ ] Add semantic `header`/`main` wrappers; review alt text
-- [ ] Add visible keyboard focus styles
+- [x] Add meta description, favicon, Open Graph and Twitter tags
+- [x] Add semantic `header`/`main` wrappers; review alt text
+- [x] Add visible keyboard focus styles
 
 ## Phase 4 — Content corrections (existing sections only)
 
