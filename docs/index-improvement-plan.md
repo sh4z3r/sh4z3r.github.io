@@ -30,7 +30,7 @@ No redesign, no new sections, no experience timeline.
 - [x] `10+ years` → `15+ years` in IT and cybersecurity
 - [x] Reword "99 projects" / "98% satisfaction" cards without numbers (user decision)
 - [x] Hero role label: reverted to `Cybersecurity Consultant | Web Security | Engineering & Management` (user decision)
-- [x] Add AWS Community Builder and bilingual (EN/ES) proof point
+- [x] Add AWS Community Builder proof point (bilingual line removed per user decision)
 - [x] Sharpen existing skill cards: SAST/SCA/DAST and triage for AppSec; AWS & GCP architecture for Cloud
 - Skipped: reconcile certifications — no changes to certifications (user decision)
 
@@ -39,6 +39,6 @@ No redesign, no new sections, no experience timeline.
 - [x] HTML validates (no errors on validator.w3.org) — 0 messages; CSS passes csstree-validator (W3C CSS service was down)
 - [x] Test at 425 / 768 / 1024 / 1440px widths (headless Chromium screenshots, all clean)
 - [x] Every metric, certification name, date and external link verified against the resume
-  - Metrics/claims: all match resume (15+ years, AWS Community Builder, bilingual, AppSec/cloud wording)
+  - Metrics/claims: all match resume (15+ years, AWS Community Builder, AppSec/cloud wording)
   - Links: 10/11 return 200; tryhackme.com returns 429 (bot rate-limit from this network, not a dead link)
   - Cert discrepancies vs resume (not changed per user decision): HTML has CSFPC, NSE4, Tenable TCME/PSI-IO/SC, Radware which resume doesn't list; resume has CEH and IDSS which HTML doesn't
