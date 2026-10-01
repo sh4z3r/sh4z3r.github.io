@@ -27,12 +27,12 @@ No redesign, no new sections, no experience timeline.
 
 ## Phase 4 — Content corrections (existing sections only)
 
-- [ ] `10+ years` → `15+ years` in IT and cybersecurity
-- [ ] Remove unsupported "99 projects" and "98% satisfaction" cards
-- [ ] Hero role label → "Cybersecurity Engineer & Consultant"
-- [ ] Add AWS Community Builder and bilingual (EN/ES) proof point
-- [ ] Sharpen existing skill cards: SAST/SCA/DAST and triage for AppSec; AWS & GCP architecture for Cloud
-- [ ] Reconcile certifications against the resume (add CEH and IDSS; confirm whether Tenable, Imperva and Radware entries are certifications or product experience)
+- [x] `10+ years` → `15+ years` in IT and cybersecurity
+- [x] Reword "99 projects" / "98% satisfaction" cards without numbers (user decision)
+- [x] Hero role label → "Cybersecurity Engineer & Consultant"
+- [x] Add AWS Community Builder and bilingual (EN/ES) proof point
+- [x] Sharpen existing skill cards: SAST/SCA/DAST and triage for AppSec; AWS & GCP architecture for Cloud
+- Skipped: reconcile certifications — no changes to certifications (user decision)
 
 ## Validation
 
