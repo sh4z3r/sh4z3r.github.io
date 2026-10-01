@@ -1,6 +1,6 @@
 # JORGE A. MAYORGA
 
-+57 (319) XXX XXXX | jorgeXXXX@gmail.com
++57 (319) XXX XXXX | jorgeXXXX@gmail.com | t.me/sh4z3r
 
 **Objective: Cybersecurity Engineer**
 
