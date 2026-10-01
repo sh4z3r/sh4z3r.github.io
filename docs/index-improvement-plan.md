@@ -6,18 +6,18 @@ No redesign, no new sections, no experience timeline.
 
 ## Phase 1 — HTML validity
 
-- [ ] Add `<html lang="en">` and the missing opening `<body>` tag
-- [ ] Fix both `<class class="sections">` → `<div class="sections">` (index.html:144, 169)
-- [ ] Add `<meta charset="utf-8">`
-- [ ] Use local `Avatar.png` instead of the `raw.githubusercontent.com` URL
-- [ ] Replace deprecated `<center>` in the footer with CSS
+- [x] Add `<html lang="en">` and the missing opening `<body>` tag
+- [x] Fix both `<class class="sections">` → `<div class="sections">` (index.html:144, 169)
+- [x] Add `<meta charset="utf-8">`
+- [x] Use local `Avatar.png` instead of the `raw.githubusercontent.com` URL
+- [x] Replace deprecated `<center>` in the footer with CSS
 
 ## Phase 2 — CSS fixes (keep current style)
 
-- [ ] Fix invalid `p { font-size: 17; }` → `17px`
-- [ ] Replace layout hacks: `.cards { margin-top: 280px }`, `footer { margin-top: 2050px }`, `.sections { height: 50px }`
-- [ ] Remove unused timeline CSS (no markup uses it)
-- [ ] Add `aria-label`/`title` to icon-only links
+- [x] Fix invalid `p { font-size: 17; }` → `17px`
+- [x] Replace layout hacks: `.cards { margin-top: 280px }`, `footer { margin-top: 2050px }`, `.sections { height: 50px }`
+- [x] Remove unused timeline CSS (no markup uses it)
+- [x] Add `aria-label`/`title` to icon-only links
 
 ## Phase 3 — Metadata & accessibility
 

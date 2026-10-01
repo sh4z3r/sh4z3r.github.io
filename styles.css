@@ -70,7 +70,7 @@ table {
 
 p {
 	color: #15171a;
-	font-size: 17;
+	font-size: 17px;
 	line-height: 31px;
 }
 
@@ -139,7 +139,6 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 50px;
 }
 
 .section-title {
@@ -190,7 +189,6 @@ h1.name {
 .cards {
 	max-width: 1120px;
 	display: block;
-	margin-top: 280px;
 }
 
 .card {
@@ -261,110 +259,13 @@ h1.name {
 
 
 
-/* Timeline styles*/
+/* Timeline styles removed (unused) */
 
+/* Footer */
 
-ol {
-	position: relative;
-	display: block;
-	margin: 100px 0;
-	height: 2px;
-	background: #EEF0F7;
-
+.footer-badge {
+	text-align: center;
 }
-ol::before,
-ol::after {
-	content: "";
-	position: absolute;
-	top: -10px;
-	display: block;
-	width: 0;
-	height: 0;
-  	border-radius: 10px;
-	border: 0px solid #31708F;
-}
-ol::before {
-	left: -5px;
-}
-ol::after {
-	right: -10px;
-	border: 0px solid transparent;
-	border-right: 0;
-	border-left: 20px solid #31708F;
-  	border-radius: 3px;
-}
-
-/* ---- Timeline elements ---- */
-li {
-	position: relative;
-	display: inline-block;
-	float: left;
-	width: 25%;
-  	height: 50px;
-}
-li .line {
-  position: absolute;
-  top: -47px;
-  left: 1%;
-  font-size: 20px;
-  font-weight: 600;
-  color: #04143A;
-}
-li .point {
-	content: "";
-	top: -7px;
-	left: 0%;
-	display: block;
-	width: 8px;
-	height: 8px;
-	border: 4px solid #fff;
-	border-radius: 10px;
-	background: #4A90E2;
-  position: absolute;
-}
-li .description {
-  display: none;
-  padding: 10px 0;
-  margin-top: 20px;
-  position: relative;
-  font-weight: normal;
-  z-index: 1;
-  max-width: 95%;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 25px;
-  color: #5B6A9A;
-}
-.description::before {
-  content: '';
-  width: 0; 
-  height: 0; 
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid #f4f4f4;
-  position: absolute;
-  top: -5px;
-  left: 43%;
-}
-
-
-.timeline .date{
-	font-size: 14px;
-	color: #81899C;
-	font-weight: 300;
-}
-
-/* ---- Hover effects ---- */
-li:hover {
-  color: #48A4D2;
-}
-li .description {
-  display: block;
-}
-
-/*timeline ends*/
-
-
 
 /* Media queries*/
 
@@ -373,9 +274,6 @@ li .description {
 		padding: 15px;
 		margin: 0px auto;
 	}
-	.cards {
-		margin-top: 250px;
-	}
 }
 
 @media(max-width: 768px){
@@ -383,10 +281,6 @@ li .description {
 		padding: 15px;
 		margin: 0px auto;
 	}
-	.cards {
-		margin-top: 320px;
-	}
-
 	.card {
 		padding: 15px;
 		text-align: left;
@@ -399,16 +293,6 @@ li .description {
 		height: auto;
 		margin: 10px 0;
 		float: left;
-	}
-
-	.timeline{
-		border: none;
-		background-color: rgba(0,0,0,0);
-	}
-
-	.timeline li{
-		margin-top: 70px;
-		height: 150px;
 	}
 }
 
@@ -424,10 +308,6 @@ li .description {
 		margin: 10px 0;
 		float: left;
 	}
-
-	.timeline{
-		display: none;
-		}
 
 	.job-title {
 		position: absolute;
@@ -445,9 +325,6 @@ li .description {
 	.container {
 		margin: 0px;
 		padding: 0 15px;
-	}
-	footer {
-		margin-top: 2050px;
 	}
 }
 
