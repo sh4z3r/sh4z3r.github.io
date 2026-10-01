@@ -36,6 +36,6 @@ No redesign, no new sections, no experience timeline.
 
 ## Validation
 
-- [ ] HTML validates (no errors on validator.w3.org)
+- [x] HTML validates (no errors on validator.w3.org) — 0 messages; CSS passes csstree-validator (W3C CSS service was down)
 - [ ] Test at 425 / 768 / 1024 / 1440px widths
 - [ ] Every metric, certification name, date and external link verified against the resume
