@@ -146,7 +146,8 @@ Keep the existing links to GitBook, TryHackMe, Hack The Box, GitHub, LinkedIn, a
 
 - Featuring two or three representative articles, labs, or projects when available.
 - Describing what visitors will find on each platform.
-- Adding AWS Community Builder, OWASP, Google Developer Groups, BSides, and Python community participation.
+- Adding the resume's `Community Service` → `Communities` entry verbatim as participation: `OWASP, AWS Community Builder, Google Dev Groups, BSides, Python` (Present). Only AWS Community Builder is currently on the page.
+- Optionally include the other `Community Service` rows: "Continuing Promise" English-Spanish translator, Colombia US Embassy & US Army (2010 & 2011), and Official Representative / DB admin and IT volunteer, Osorno, Chile (2004-2006).
 - Including translator and volunteer experience only if it supports the desired professional narrative.
 
 If no current articles or projects are ready to feature, label the section `Profiles and community` rather than promising writing and projects that are not linked.
@@ -187,5 +188,6 @@ Repeat the Telegram CTA in the hero, navigation, and footer. Keep the action con
 - Confirm the `40+` training figure and subject matter.
 - Verify every certification name and available verification URL.
 - Confirm which vendor names represent certifications versus product experience.
+- Cross-check copy against the GitHub profile README (https://github.com/sh4z3r): experience years (`17+` there vs `15+` here), tagline/focus wording, handle spelling (`Sh4z3r` vs `Shazer`), and the link set — reconcile or explicitly decide which is authoritative.
 - Approve anonymized case-study descriptions and results.
 - Check that all public links and the Telegram CTA remain current.

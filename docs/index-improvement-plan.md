@@ -34,6 +34,23 @@ No redesign, no new sections, no experience timeline.
 - [x] Sharpen existing skill cards: SAST/SCA/DAST and triage for AppSec; AWS & GCP architecture for Cloud
 - Skipped: reconcile certifications — no changes to certifications (user decision)
 
+## Phase 5 — Communities (open)
+
+- [ ] Add the resume's communities to the page: `OWASP, AWS Community Builder, Google Dev Groups, BSides, Python` (resume `Community Service` → `Communities`, Present)
+  - Hero already shows `AWS Community Builder` only; the other four communities are missing from `index.html`
+  - Place them in the existing profiles/community area (or add a compact `Communities` line under the hero) — no new section redesign
+  - Optional: add the rest of the resume's `Community Service` table (US Embassy "Continuing Promise" translator 2010-2011; Osorno, Chile volunteer 2004-2006) only if it fits the professional narrative
+
+## Phase 6 — Consistency with GitHub profile README (open)
+
+- [ ] Check `index.html` (and `resume.md`) against the profile README at https://github.com/sh4z3r (source: `sh4z3r/sh4z3r/README.md`)
+  - Years of experience: README says `17+ years`, page says `+ 15 years` — pick one source of truth
+  - Tagline: README uses `Cybersecurity · Cloud · DevSecOps & AppSec · Practical AI`; hero uses `Cybersecurity Consultant | Web Security | Engineering & Management`
+  - Spelling of the handle: README `Sh4z3r` vs page `* Shazer *` / `sh4z3r`
+  - Links: README exposes gitbook, X, LinkedIn only; page also has Telegram, TryHackMe, Hack The Box — confirm none are missing or conflicting
+  - README mentions a second account (`jorgeiteng`) — decide whether the page should reference it
+  - Focus areas: README stresses practical AI / automation; confirm the page matches
+
 ## Validation
 
 - [x] HTML validates (no errors on validator.w3.org) — 0 messages; CSS passes csstree-validator (W3C CSS service was down)
