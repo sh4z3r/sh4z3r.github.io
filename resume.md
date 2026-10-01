@@ -30,4 +30,4 @@
 ## Links
 
 - TryHackMe: https://tryhackme.com/p/sh4z3r
-- Hack The Box: https://www.hackthebox.eu/home/users/profile/313296
+- Hack The Box: https://profile.hackthebox.com/profile/01a0967e-b1b2-72e4-a3a2-ab81c18fefda
