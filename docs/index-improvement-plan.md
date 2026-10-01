@@ -29,7 +29,7 @@ No redesign, no new sections, no experience timeline.
 
 - [x] `10+ years` → `15+ years` in IT and cybersecurity
 - [x] Reword "99 projects" / "98% satisfaction" cards without numbers (user decision)
-- [x] Hero role label → "Cybersecurity Engineer & Consultant"
+- [x] Hero role label: reverted to `Cybersecurity Consultant | Web Security | Engineering & Management` (user decision)
 - [x] Add AWS Community Builder and bilingual (EN/ES) proof point
 - [x] Sharpen existing skill cards: SAST/SCA/DAST and triage for AppSec; AWS & GCP architecture for Cloud
 - Skipped: reconcile certifications — no changes to certifications (user decision)
