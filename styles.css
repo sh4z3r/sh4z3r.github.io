@@ -383,6 +383,12 @@ h1.name {
 	border-radius: 8px;
 	margin: 0 4px;
   }
+
+  .fa svg {
+	width: 1em;
+	height: 1em;
+	vertical-align: middle;
+  }
   
   /* Add a hover effect if you want */
   .fa:hover {
