@@ -146,7 +146,7 @@ Keep the existing links to GitBook, TryHackMe, Hack The Box, GitHub, LinkedIn, a
 
 - Featuring two or three representative articles, labs, or projects when available.
 - Describing what visitors will find on each platform.
-- Adding the resume's `Community Service` → `Communities` entry verbatim as participation: `OWASP, AWS Community Builder, Google Dev Groups, BSides, Python` (Present). Only AWS Community Builder is currently on the page.
+- Adding the resume's `Community Service` → `Communities` entry as participation: `OWASP, AWS Community Builder, Google Dev Groups, BSides, Python Colombia` ("Python" clarified as Python Colombia per user). Only AWS Community Builder was previously on the page.
 - Optionally include the other `Community Service` rows: "Continuing Promise" English-Spanish translator, Colombia US Embassy & US Army (2010 & 2011), and Official Representative / DB admin and IT volunteer, Osorno, Chile (2004-2006).
 - Including translator and volunteer experience only if it supports the desired professional narrative.
 

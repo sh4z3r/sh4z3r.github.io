@@ -36,10 +36,10 @@ No redesign, no new sections, no experience timeline.
 
 ## Phase 5 — Communities (open)
 
-- [ ] Add the resume's communities to the page: `OWASP, AWS Community Builder, Google Dev Groups, BSides, Python` (resume `Community Service` → `Communities`, Present)
+- [x] Add the resume's communities to the page: `OWASP, AWS Community Builder, Google Dev Groups, BSides, Python Colombia` (resume `Community Service` → `Communities`, Present; "Python" clarified as Python Colombia per user)
   - Hero already shows `AWS Community Builder` only; the other four communities are missing from `index.html`
   - Place them in the existing profiles/community area (or add a compact `Communities` line under the hero) — no new section redesign
-  - Optional: add the rest of the resume's `Community Service` table (US Embassy "Continuing Promise" translator 2010-2011; Osorno, Chile volunteer 2004-2006) only if it fits the professional narrative
+  - Optional: add the rest of the resume's `Community Service` table (US Embassy "Continuing Promise" translator 2010-2011; Osorno, Chile volunteer 2004-2006) only if it fits the professional narrative — skipped for now (user decision pending)
 
 ## Phase 6 — Consistency with GitHub profile README (open)
 
