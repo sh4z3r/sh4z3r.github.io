@@ -190,6 +190,7 @@ h1.name {
 }
 
 .list-card div span {
+	display: block;
 	font-size: 16px;
 	color: #81899C;
 	line-height: 22px;
