@@ -233,8 +233,14 @@ h1.name {
 	vertical-align: top;
 	border-radius: 10px;
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 30px;
 	border: 1px solid transparent;
+}
+
+.card-icon {
+	font-size: 40px;
+	line-height: 1;
+	margin-bottom: 10px;
 }
 
 .card-active , .card:hover{
@@ -375,6 +381,7 @@ h1.name {
 	background-color: var(--bg-card);
 	color: var(--accent);
 	border-radius: 8px;
+	margin: 0 4px;
   }
   
   /* Add a hover effect if you want */
