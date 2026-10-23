@@ -376,6 +376,9 @@ h1.name {
 	padding: 10px;
 	font-size: 30px;
 	width: 50px;
+	line-height: 1;
+	display: inline-block;
+	vertical-align: middle;
 	text-align: center;
 	text-decoration: none;
 	background-color: var(--bg-card);
@@ -385,9 +388,10 @@ h1.name {
   }
 
   .fa svg {
-	width: 1em;
-	height: 1em;
-	vertical-align: middle;
+	display: block;
+	width: 0.8em;
+	height: 0.8em;
+	margin: 0.1em auto;
   }
   
   /* Add a hover effect if you want */
